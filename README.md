@@ -14,4 +14,6 @@ I hope you like it, code it and [watch it](https://gustavolando.github.io/otCrea
 
 ![Javascript Page Scroll Progress Bar](https://gustavolando.github.io/otCreativePageScrollProgressIndicatorWithMouseFollow/Javascript%20Page%20Scroll%20Progress%20Bar%202.png)
 
+![Javascript Page Scroll Progress Bar](https://gustavolando.github.io/otCreativePageScrollProgressIndicatorWithMouseFollow/Javascript%20Page%20Scroll%20Progress%20Bar%203.png)
+
 Here is the demo link:  https://gustavolando.github.io/otCreativePageScrollProgressIndicatorWithMouseFollow/
